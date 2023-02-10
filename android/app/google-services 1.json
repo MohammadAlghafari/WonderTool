@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247195091374",
+    "project_id": "wonder-tools-3c038",
+    "storage_bucket": "wonder-tools-3c038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247195091374:android:1ab2a9bbbaad3cbb5b483f",
+        "android_client_info": {
+          "package_name": "com.wonder.tool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247195091374-45pdtvfk4dshcjq8845dqplie7oeovci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonder.tool",
+            "certificate_hash": "e1586c07775dd77cf10823d6f3dc9f5325136fb3"
+          }
+        },
+        {
+          "client_id": "247195091374-9rrp15bbi8rarak3u92hb1i14ghdn54s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonder.tool",
+            "certificate_hash": "506c998cac377bf57d210e20e1e9e5bffe7a1835"
+          }
+        },
+        {
+          "client_id": "247195091374-osr7i24rsqsmobtdmr1j8civcgfqmeli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtg4firAe19jj8oEJBnackkdZs-dlK36c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247195091374-osr7i24rsqsmobtdmr1j8civcgfqmeli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

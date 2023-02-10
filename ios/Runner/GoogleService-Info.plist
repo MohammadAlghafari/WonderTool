@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247195091374-42gv684df2coetlamqnmpvc2r5mm6dnr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247195091374-42gv684df2coetlamqnmpvc2r5mm6dnr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>247195091374-45pdtvfk4dshcjq8845dqplie7oeovci.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJTNC7hsF7DfvqwlAa5AiGH1xLedCrlYQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247195091374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wonder.tools</string>
+	<key>PROJECT_ID</key>
+	<string>wonder-tools-3c038</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wonder-tools-3c038.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247195091374:ios:a3b19423c462c7c95b483f</string>
+</dict>
+</plist>
